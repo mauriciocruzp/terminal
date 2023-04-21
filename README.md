@@ -26,8 +26,6 @@ Here are some details about my setup:
 
 ## Setup.
 
-> This is step-by-step how to install these bspwm dotfiles. Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM).
-
 ### Installation (Manual)
 
 > After cloning the repository, install the necessary dependencies to replicate by setup.
