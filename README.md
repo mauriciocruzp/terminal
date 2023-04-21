@@ -72,6 +72,6 @@ Here are some details about my setup:
 
    <br>
 
-> Lastly, log out from your current desktop session and log in into bspwm.
+> Lastly, restart kitty.
 
    <br>
