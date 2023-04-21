@@ -6,7 +6,7 @@
 <!-- INFORMATION -->
 
 
-<img src="" alt="img" align="right" width="400px">
+<img src="https://raw.githubusercontent.com/mauriciocruzp/terminal/main/Mauwu'sTerminal.png" alt="img" align="right" width="400px">
 
 This is my personal terminal configuration files.
 
@@ -54,7 +54,6 @@ Here are some details about my setup:
 ```sh
  $ mkdir -p $HOME/.config/kitty && cp -r ./config/kitty/* $HOME/.config/kitty
  $ cp -r ./zsh/.zshrc $HOME/
- $ cp -r ./misc/* $HOME/
 ```
 
    </details>
